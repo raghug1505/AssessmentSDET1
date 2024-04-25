@@ -1,11 +1,5 @@
 
-# Project Title
 
-Provide a brief description of your project here.
-
-## Getting Started
-
-These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -65,33 +59,6 @@ mvn -Dtest=TestOne,TestTwo test
 ## Built With
 
 - [Maven](https://maven.apache.org/) - Dependency Management
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/yourrepositorylink/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yourrepositorylink/tags).
-
-## Authors
-
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-```
-
-### Notes:
-
-- **Customize the URLs and placeholders**: Replace placeholders with actual data such as repository links, user names, etc.
 - **Structure and Content**: The README is structured to be clear and instructive, guiding a user from setting up the project to running tests and understanding results. Make sure to customize the project description and other sections to fit the specifics of your project.
 
 This README is designed to make the setup and test execution processes as straightforward as possible, facilitating both new developers and ongoing project development.
